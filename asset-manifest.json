@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/giftcard-manager/static/css/main.b100e6da.chunk.css",
-    "main.js": "/giftcard-manager/static/js/main.1689592b.chunk.js",
-    "main.js.map": "/giftcard-manager/static/js/main.1689592b.chunk.js.map",
+    "main.js": "/giftcard-manager/static/js/main.518beccc.chunk.js",
+    "main.js.map": "/giftcard-manager/static/js/main.518beccc.chunk.js.map",
     "runtime-main.js": "/giftcard-manager/static/js/runtime-main.3cf87c63.js",
     "runtime-main.js.map": "/giftcard-manager/static/js/runtime-main.3cf87c63.js.map",
     "static/js/2.9b0a676c.chunk.js": "/giftcard-manager/static/js/2.9b0a676c.chunk.js",
     "static/js/2.9b0a676c.chunk.js.map": "/giftcard-manager/static/js/2.9b0a676c.chunk.js.map",
     "index.html": "/giftcard-manager/index.html",
-    "precache-manifest.54d454182712faf78370b5cfad8b949b.js": "/giftcard-manager/precache-manifest.54d454182712faf78370b5cfad8b949b.js",
+    "precache-manifest.41576b33d62b3f86713966774415ec76.js": "/giftcard-manager/precache-manifest.41576b33d62b3f86713966774415ec76.js",
     "service-worker.js": "/giftcard-manager/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/giftcard-manager/static/css/main.b100e6da.chunk.css.map",
     "static/media/logo.svg": "/giftcard-manager/static/media/logo.25bf045c.svg"

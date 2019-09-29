@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f1d6baee8a87b875efdbbd3dd4dd1443",
+    "revision": "578984ec07e53c008d2cbfa7f041073e",
     "url": "/giftcard-manager/index.html"
   },
   {
-    "revision": "1c3464d047b92eb1fbe8",
+    "revision": "369f581e94c1fd03f042",
     "url": "/giftcard-manager/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/giftcard-manager/static/js/2.9b0a676c.chunk.js"
   },
   {
-    "revision": "1c3464d047b92eb1fbe8",
-    "url": "/giftcard-manager/static/js/main.1689592b.chunk.js"
+    "revision": "369f581e94c1fd03f042",
+    "url": "/giftcard-manager/static/js/main.518beccc.chunk.js"
   },
   {
     "revision": "26e333be523329ab48c3",
