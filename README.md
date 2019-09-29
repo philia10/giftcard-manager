@@ -1,3 +1,3 @@
 # Giftcard Manager Demo
 
-This is a test.
+This is the final test.
