@@ -4,6 +4,8 @@
   "private": true,
   "homepage": "https://philia10.github.io/giftcard-manager",
   "dependencies": {
+    "@material-ui/core": "^4.4.3",
+    "@material-ui/icons": "^4.4.3",
     "gh-pages": "^2.1.1",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
