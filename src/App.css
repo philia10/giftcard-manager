@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color:
 }
 
 .App-logo {
@@ -7,14 +8,64 @@
 }
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+}
+
+
+.Welcome {
+  color: rgba(0, 0, 0, 0.6);
+  font-family: 'Lucida Grande';
+  font-size: calc(20px + 2vmin);
+  min-height: 15vh;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.logo{
+  font-family: 'Georgia';
+  font-size: calc(20px + 2vmin);
+  font-style: italic;
+  font-weight: bold;
+  display: flex;
+  flex-direction: row;
+  min-height: 40vh;
+  align-items: flex-start;
+  justify-content: center;
+  padding-top:10vh;
+}
+
+
+.Giftcard{
+  color: #A8544F;
+}
+
+.Manager{
+  color: #660F1A;
+}
+
+.add{
+  min-height: 10vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.Add-a-card{
+  font-family:'Luicida Grande';
+  color: rgba(0,0,0,0.6); 
+  font-size: calc(10px + 2vmin);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
 }
 
 .App-link {
